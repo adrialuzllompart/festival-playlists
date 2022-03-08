@@ -129,3 +129,4 @@ dmypy.json
 .pyre/
 auth.json
 notebooks/.cache-adrialuz
+.DS_Store
